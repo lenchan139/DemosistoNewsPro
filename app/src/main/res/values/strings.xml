@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">德模士多報舖版</string>
+    <string name="hostname">demosisto.news</string>
+    <string name="latestPostId_Key">latestPostId</string>
+    <string name="title_activity_list_view_activty">ListViewActivty</string>
+    <string name="title_activity_view_content">ViewContentActivity</string>
+    <string name="postIdKey">postId</string>
+</resources>
