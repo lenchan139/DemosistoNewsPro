@@ -5,4 +5,6 @@ DemosistoNewsPro base on [Wordpress Rest API](https://developer.wordpress.com/do
 ## Lincense
 DemosistoNewsPro publish under GPLv3.  
 But, There are some external binary under their license:  
-JSoup: MIT License
+[JSoup: MIT License](https://jsoup.org/license)
+## APK
+Of cause, you can use This Source Code to build your APK. If you didn't want to do it by yourself, you can also find this app on [Google Play](https://play.google.com/store/apps/details?id=news.demosisto.demosistonewspro)
